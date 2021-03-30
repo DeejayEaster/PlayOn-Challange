@@ -1,8 +1,6 @@
 # PlayOn! Sports coding challenge
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/58ee901c-2394-47c1-923f-b4b2ff122511/deploy-status)](https://app.netlify.com/sites/playonsport-challenge/deploys)
-
-<https://playonsport-challenge.netlify.app>
+<https://elated-yalow-f98c0d.netlify.app/>
 
 Greetings, this is my submission to the PlayOn! code assesment. Below I have included some simple instruction on how to run the code. I also provided a link to the deployed code. Thank you dor your time.
 
@@ -34,4 +32,4 @@ The header and footer are for cosmetic purposes only. On the top of the applicat
 
 ### One Last Note
 
-If you look at the commit history you will see two commits from gabeaster. I am using a shared computer and did not check to see which user was logged into the git CLI. My bad!
+If you look at the commit history you will see commits from gabeaster. I am using a shared computer and did not check to see which user was logged into the git CLI. My bad!
